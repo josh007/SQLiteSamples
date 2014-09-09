@@ -1,7 +1,4 @@
-﻿// Author: Tigran Gasparian
-// This sample is part Part One of the 'Getting Started with SQLite in C#' tutorial at http://www.blog.tigrangasparian.com/
-
-using System;
+﻿using System;
 using System.Data.SQLite;
 
 namespace SQLiteSamples
