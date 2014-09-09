@@ -1,5 +1,13 @@
-as;ldjkfasl;djfl;asdjflaskjdfl;askjdflk;asjdflskjthis is added
+using System.IO
 
+namespace Hello
+{
+class Main
+{
+void main()
+{
+Console .Writeline("Hello");
+}
+}
 
-
-wow
+}
